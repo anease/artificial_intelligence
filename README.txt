@@ -1,7 +1,3 @@
-Andrew Nease
-UC Fall 2020
-AI Homework 1 - Task 1
-
 Sample input provided. See 'input.txt'.
 
     The starting and goal states must be formatted as shown in the example file:
